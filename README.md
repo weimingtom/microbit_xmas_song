@@ -2,7 +2,8 @@
 Micro:bit v2自制圣诞歌播放器, 兼容v1    
 
 ## Import, 导入方法  
-* 复制Python脚本，切换到Python模式，粘贴，然后切换回块编程模式  
+* 复制Python脚本main.py，切换到Python模式，粘贴，然后切换回块编程模式  
+https://github.com/weimingtom/microbit_xmas_song/blob/master/main.py  
 
 ## Ref, 参考资料      
 * Arduino案例实操 -- 蜂鸣器演奏歌曲（圣诞歌 Jingle Bells）  
