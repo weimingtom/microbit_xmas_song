@@ -1,3 +1,6 @@
+## Ref, 参考    
+* Arduino案例实操 -- 蜂鸣器演奏歌曲（圣诞歌 Jingle Bells）  
+https://blog.csdn.net/qq_36955622/article/details/103603813  
 
 > 在 [https://weimingtom.github.io/microbit_xmas_song/](https://weimingtom.github.io/microbit_xmas_song/) 打开此页面
 
